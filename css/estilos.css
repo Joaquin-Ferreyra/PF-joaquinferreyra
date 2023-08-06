@@ -52,28 +52,6 @@ li{
     border-radius: 8px;
 }
 
-.font-main{
-    text-transform: capitalize;
-    font-weight: bolder;
-    color: blue;
-    font-family: 'roboto', sans-serif;
-    font-size: 20px;
-}
-
-.actividad1{
-    display: flex;
-    flex-wrap: wrap;
-    max-width: 1000px;
-    color: rgb(255, 102, 0);
-    font-family: 'roboto', sans-serif;
-    font-size: 20px;
-    font-weight: bold;
-    border: 6px solid red;
-    width: 350vw;
-    order: 2;
-    margin: 50px;
-}
-
 #footer{
     display: flex;
     flex-wrap: nowrap;
@@ -100,49 +78,6 @@ a:hover{
     font-size: 22px;
     text-decoration: underline;
     
-}
-
-.socialmedia_logo{
-    height: 44px;
-    width: 44px;
-}
-
-#tiktok_logo{
-    margin: 10px;
-}
-
-#instagram_logo{
-    margin: 10px;
-}
-
-#whatsapp_logo{
-    margin: 10px;
-}
-
-#twitter_logo{
-    margin: 10px;
-}
-
-#instagram{
-    margin: 10px;
-}
-
-#tiktok{
-    margin: 10px;
-}
-
-#twitter{
-    margin: 10px;
-}
-
-#whatsapp_number{
-    margin: 10px;
-}
-
-.socialmedia_link{
-    font-family: 'roboto', sans-serif;
-    font-weight: bold;
-    color: #000;
 }
 
 input[type=text]{
@@ -204,12 +139,6 @@ header{
     align-items: center;
     justify-content: center;
     
-}
-
-#div-iframe{
-    display: flex;
-    flex-flow: row;
-    justify-content: center;
 }
 
 .contenedor_grid{
